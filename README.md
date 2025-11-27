@@ -1,2 +1,2 @@
-# Jokenp-
+# Jokenpô
 Jogo de Jokepô utilizando linguagem C
